@@ -19,3 +19,4 @@ driver.find_element(By.ID, "register").click()
 
 
 sleep(8)
+driver.quit()
